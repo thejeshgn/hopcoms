@@ -23,7 +23,7 @@ with open('item_list.csv', "r") as csv_file:
 
 
 column_headers = []
-with open('hopcoms_daily_ratelist_2016.csv', "r") as csv_file:
+with open('hopcoms_daily_ratelist_2017.csv', "r") as csv_file:
 	all_documents = {}
 	reader = csv.reader(csv_file)
 	header = True
@@ -58,10 +58,9 @@ with open('hopcoms_daily_ratelist_2016.csv', "r") as csv_file:
 					data["_id"]=_id
 
 				if item_code:
-					if column != '' and column != 'NR':
+					if column != '' and column != 'NR' and float(column) != 0:
 						data[item_code]=float(column)
-					else:
-						data[item_code]=None
+						
 				all_documents[_id] = data
 
 			column_no = column_no + 1			
