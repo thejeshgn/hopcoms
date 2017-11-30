@@ -23,7 +23,8 @@ with open('item_list.csv', "r") as csv_file:
 
 
 column_headers = []
-with open('hopcoms_daily_ratelist_2012.csv', "r") as csv_file:
+with open('hopcoms_daily_ratelist_2016.csv', "r") as csv_file:
+	all_documents = {}
 	reader = csv.reader(csv_file)
 	header = True
 	for row in reader:
@@ -50,20 +51,35 @@ with open('hopcoms_daily_ratelist_2012.csv', "r") as csv_file:
 				given_date = column_headers[column_no]
 				_id = ''.join(reversed(given_date.split("/")))
 				print str(_id)
-				try:
-					if hopcoms_daily[_id]:
-						print "exists"
-						data = hopcoms_daily[_id]						
-				except couchdb.http.ResourceNotFound:
-						print "add"
-						data = {}
-						data["_id"]=_id
+				if all_documents.has_key(_id):
+					data = all_documents[_id]
+				else:
+					data = {}
+					data["_id"]=_id
 
 				if item_code:
 					if column != '' and column != 'NR':
 						data[item_code]=float(column)
 					else:
 						data[item_code]=None
-					print str(data)
-					hopcoms_daily.save(data)
+				all_documents[_id] = data
+
 			column_no = column_no + 1			
+	#all rows are over
+	data = None
+	for key, data in all_documents.iteritems():
+		print "============================================================================================"
+		_id = data["_id"]
+		try:
+			if hopcoms_daily[_id]:
+				print "exists"
+				x = hopcoms_daily[_id]
+				print str(x["_id"])
+				print str(x["_rev"])
+				data["_rev"] = x["_rev"]						
+		except couchdb.http.ResourceNotFound:
+				print "add"
+				data["_id"]=_id
+
+		print str(data)
+		hopcoms_daily.save(data)
