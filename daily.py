@@ -26,16 +26,16 @@ if all_items_load:
 			all_item_list[label]=int(row[0])
 
 	try:
-		if hopcoms_meta["items"]:
+		if hopcoms_meta["item_codes"]:
 			pass
 	except couchdb.http.ResourceNotFound:
 			print "add"
-			all_item_list["_id"]="items"
+			all_item_list["_id"]="item_codes"
 
 	print str(all_item_list)
 	hopcoms_meta.save(all_item_list)
 else:
-	all_item_list = hopcoms_meta["items"]
+	all_item_list = hopcoms_meta["item_codes"]
 	#print str(all_item_list)
 
 
