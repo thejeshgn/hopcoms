@@ -5,24 +5,43 @@ import datetime
 import couchdb
 from BeautifulSoup import BeautifulSoup
 
+all_items_load = False
+
 all_item_list = {}
-
-with open('item_list.csv', "r") as csv_file:
-	reader = csv.reader(csv_file)
-	header = True
-	for row in reader:
-		if header:
-			header = False
-			continue
-		label = (row[1]).strip()
-		label =	label.replace(" ","")
-		label = label.lower()
-		all_item_list[label]=int(row[0])
-
-
 db_full_url= ""
 couch = couchdb.Server(db_full_url)
+hopcoms_meta 	= couch["hopcoms_meta"]
+
+if all_items_load:
+	with open('item_list.csv', "r") as csv_file:
+		reader = csv.reader(csv_file)
+		header = True
+		for row in reader:
+			if header:
+				header = False
+				continue
+			label = (row[1]).strip()
+			label =	label.replace(" ","")
+			label = label.lower()
+			all_item_list[label]=int(row[0])
+
+	try:
+		if hopcoms_meta["items"]:
+			pass
+	except couchdb.http.ResourceNotFound:
+			print "add"
+			all_item_list["_id"]="items"
+
+	print str(all_item_list)
+	hopcoms_meta.save(all_item_list)
+else:
+	all_item_list = hopcoms_meta["items"]
+	#print str(all_item_list)
+
+
+
 hopcoms_daily 	= couch["hopcoms_daily"]
+
 
 
 web_data_url = "http://www.hopcoms.kar.nic.in/(S(vks0rmawn5a2uf55i2gpl3zo))/RateList.aspx"
