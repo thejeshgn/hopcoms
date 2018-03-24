@@ -1,0 +1,872 @@
+_id,stall_no,address,landmark,pincode
+1,1,"Head office Complex
+Dr. Mari gowda Road
+lalbagh, Bangalore","Double Road
+Circle",
+2,2,"Head office Complex
+Dr. Mari gowda Road
+lalbagh, Bangalore","Double Road
+Circle",
+3,3,"Head office Complex
+Dr. Mari gowda Road
+lalbagh, Bangalore","Double Road
+Circle",
+4,4,"Head office Complex
+Dr. Mari gowda Road
+lalbagh, Bangalore","Double Road
+Circle",
+5,5,"4th Block Jayanagar market
+Jayanagar,Bangalore -11","Shopping
+Complex",
+6,6,"Mayohall premises
+Residency Road, M.G.Road
+beside Bangalore - 01",Mayohall,
+7,7,"Nallurahalli,Siddapura
+Ramagoddanahalli,
+Mahadevapura,Bangalore",White Field,
+8,8,"17 th Cross J.Bazar
+Sadashivanagar,
+Bangalore-08",Palace Road,
+9,9,"Mahabodhi Society,
+old central jail Gandhinagar,
+Bangalore-09",Freedom Park,
+10,10,"Sahakari Society, Rajajinagar
+5th Block, Bhaysham Circle
+Bangalore 10","Rama mindra
+2nd Block",
+11,11,"Sahakara Bhavana building,
+Vivekanagara Bus stand,
+Bangalore","Neelasandra
+main road",
+12,12,"Legislature's Home Telecom
+Exchange, Bangalore-01",Vidhanasoudha,
+13,13,"Malleshwaram Co-op Society,
+8th cross, Margoosa Road,
+Bangalore-03",RCS Layout,
+14,14,"Victoria Hospital Premises
+K.R.Market Bangalore-02",K.R.Market,
+15,15,"Browsing Hospital Premises
+Shivajinagar,Bangalore-1","Shivajinagara
+Bus stand",
+16,16,"Kidwai hospital,Hosur
+Road, Bangalore-27","Nimhans
+Hospital",
+17,17,"Bharath nagar,4th main,
+8th Cross 2nd stage B.E.L",Magadi Road,
+18,18,"Kumaraswamy Layout,
+14 th main 1stage, Bus Road,
+Bangalore","Dayananda
+Sagar College",
+19,19,"Shivabalayogi Ashram Opp
+3rd Phase J.P.nagar,
+Bangalore-18","S.B.Yogi
+Ashram",
+20,20,"K.S.R.T.C Main Bus stand,
+Subha's Nagar, Bangalore-09","K.S.R.T.C
+Busstand",
+21,21,"KIMS Hospital K.R.Road,
+Bangalore-02","Vokkaligara
+sangha",
+22,22,"City Railway station,
+Subhas Nagar, Bangalore-09","Central Railway
+Station",
+23,23,"Lalbagh Glass house
+stall Bangalore-04",Glass house,
+25,25,"5th Cross, Hombbegowda
+nagara Willson garden,
+Bangalore 27","Police Station
+Willson Garden",
+26,26,"3rd main, 9th Cross,
+1st stage, BEL Layout
+Sunkada katte, Bangalore",Magadi Road,
+27,27,"B.M.T.C.Busstand
+Subha's Nagar, Bangalore-09","Central
+B.M.T.C",
+28,28,"34th cross milk booth,
+18th Main,4th T Block
+Jayanagar, Bangalore","Chandrakala
+Parameshwari
+Temple",
+29,29,"17th B Cross Saraswathi
+Hospital B.S.K. 2nd Stage,
+Bangalore-70","Suchitra film
+centre",
+30,30,"Pai Layout tin factory, Rajakaluve
+Near Mahadavapura Road,
+Bangalore","White Field
+Road",
+31,31,"17th Cross,Word office
+M.C. Extension,Vijayanagar
+Bangalore-40","Vijayanagar
+Tank",
+32,32,"9th Main Road, Hosahalli park,
+Vijayanagar,
+Bangalore-40 (New)","Vijayanagar
+Park",
+33,33,"50 th Cross, 3rd Main,
+4th Block, Rajajinagara,
+Bangalore-10",ESI Hospital,
+34,34,"Hudsan Circle, Krushibhavan
+Building Corporation,
+Bngalore-02",Cubbon Park,
+36,36,"Hudsan Circle, Krushibhavan
+Building Corporation,
+Bngalore-02",Cubbon Park,
+37,37,"Hudsan Circle, Krushibhavan
+Building Corporation,
+Bngalore-2",Cubbon Park,
+38,38,"Corporation Head office
+Premises, Mission Road,
+Bangalore-02",Unity Building,
+39,39,"1st cross, B.M.Sri Circle,
+C.M.H. Road, 100ft 
+Indiranagar, Bangalore",C.M.H.Road,
+40,40,"Nandidurga Layout,
+Janata Bazar Premises,
+Miller Road, Bangalore","S.B.M.Bank
+Nandidurga",
+41,41,"4th Cross, Ganesh Bhavan,
+Mountjoy Road, Hanumanth
+Nagar, Bangalore-19","Post Office
+Hanumantha
+Nagar",
+42,42,"B.S.K. 1st Stage Srinivsanagar
+Stadium Premises, Bangalore","vidhyapeeta
+Circle",
+43,43,"19th G Main, Milk Booth Park
+Road 1st Block, Rajajinagara,
+Bangalore 10","Vidya vardaka
+College",
+44,44,"BEL Officers club, BEL Factory,
+RMV Extension, Bangalore",Jalahalli,
+45,45,"1st Cross Malleshwaram, 
+Link Road Marata sangha Near
+Malleshwaram, Bangalore-3","Malleshwaram
+Circle",
+46,46,"1st B Cross, 8th Block
+Hunasemara, Jayanagar,
+S.J.P Hospital, Bangalore",J.S.S.College,
+47,47,"7th Cross,1st Main,
+Vasanthanagar M.C.C.College,
+Bangalore","Ambedkar
+Bhavan",
+48,48,"Janatha Bazar, Premises
+K.G.Road, Bangalore-09",Alankar Plaza,
+49,49,"1st Main, Old Shanthi
+Theatre behind Basavanagudi,
+Bangalore-04","Sounth end
+Road",
+50,50,"Swimming Pool Near
+Mahalakshmi Layout, Nandhini
+Layout Road, Bangalore","Ashoka
+Highlights",
+51,51,"12 th Main, Maththikere,
+Gokula, Bangalore",R.M.C.College,
+52,52,"Bharathi Vidhya Peeta, 3rd Main
+Road, Adhichunchangiri Mutt,
+Vijayanagara, Bangalore-04","Chunchangiri
+Mutt",
+53,53,"38th Cross, 9th Main,
+5th Block, Jayanagara,
+Bangalore - 41",Shalini Hotel,
+54,54,"3rd.Cross, 3rd Main,
+K.E.B.Layout, Geddalahalli,
+Bangalore",Hebbal Road,
+55,55,"2nd Cross, 2nd Main
+LIC Colony Park, Jayanagar
+3rd Block, Bangalore",Word Office,
+56,56,"27th Cross, 5th Main,
+Nand theatre Near 3rd Block
+Jayanagar, Bangalore-68","N.M.K.R.V
+College",
+57,57,"H.S.R.Layout, Sector No.1,
+Agra road, Bangalore","B.D.A.Complex
+H.S.R.Layout",
+58,58,"Bysandra Road Jayanagara,
+3rd block, Ply ground beside,
+Bangalore-11","Jayanagara
+Swimming Pool",
+59,59,"Bangalore Club, Richmond
+Circle, Resideny Road,
+Bangalore-25",Hotel Sarovara,
+60,60,"22nd Cross Milk booth,
+6th Block, Jayanagara,
+Bangalore-82",Yediur Lake,
+61,61,"Akshya Complex, Military
+Campas, Jalahalli, Bangalore",Jalahalli,
+62,62,"10th A Cross, Brakar ply
+ground, Kumara Park West,
+Bangalore",Madhavanagara,
+63,63,"4th Cross, 2nd Main Ganga
+Nagara, Mekhri Circle,
+Bangalore",Hebbal Road,
+64,64,"7th main, 17th E Cross
+Milk Booth, 1st stage,
+Indhiranagara, Bangalore","Hindu
+Cretorium",
+65,65,"27th Cross, Milk booth,
+2nd Block, Rajajinagara,
+Bangalore-10",K.L.E College,
+66,66,"Canara bank Colony,
+MudalaPalya, Vijayanagara,
+Bangalore-40","Nagarabhavi
+Road",
+67,67,"12th C Main, 72ndCross,
+Ganesh temple behind, 6th block,
+Rajajinagara, Bangalore-10","B.B.M.P
+Community
+Center",
+68,68,"8th Cross Subbaiah Layout,
+Serpentine Road, Kumar Park
+West, Bangalore",B.D.A Office,
+69,69,"53th Cross, Milk Booth,
+3rd block, Rajajinagara,
+Bangalore-10","Community
+Center",
+70,70,"2nd Main, 4th Cross,
+Defence Colony, Indhiranagara,
+Bangalore","100 Ft Road,
+Indhiranagara",
+71,71,"11th Cross Road, Malleshwaram
+Railway Station, Bangalore-3","10th Cross,
+Malleshwaram",
+72,72,"3rd Main Milk booth,Saibaba
+Temple, Someshwara Extension,
+Cambridge Road, Bangalore-08",Alsoor,
+73,73,"6th Cros, 10th main, 1st Block
+Jayanagara, Bangalore-11","Rani Saraladevi
+School",
+74,74,"N.R.Colony, 1st Cross
+Bus stand, Opposite to
+Ramamandhira, Bangalore",Word Office,
+76,76,"7th Main ,15th Cross,
+Corporation Market,
+Lakkasandra, Bangalore","Harilakshmi
+theatre",
+77,77,"1st A Main 7th Block,
+Jayanagara, Corporation
+Hospital, Bangalore","Deepak
+Hospital",
+78,78,"9th cross 6th Main,
+Sadhashivanagara, Bangalore",Swimming Pool,
+79,79,"46th Cross, 5th Block,
+Jayanagara, Bangalore-41","Rajalakshmi
+Nursing home",
+80,80,"2nd main, 16th main, Near
+M.E.S College Malleshwaram,
+Bangalore -41","M.L.A
+Malleshwaram",
+82,82,"Primary Health Centre,
+Munireddy Palya Main Road,
+J.C Nagara, Bangalore-41",T.V Tower,
+83,83,"M.E.G.Center Military
+Campus, Kallahalli,
+Bangalore-08",Alsoor Lake,
+84,84,"15th Cross, Kadu
+Malleshwaram Temple,
+Malleshwaram, Bangalore-03","Chowdaiah
+Memorial Hall",
+85,85,"Ramakrishna Ashrama circle,
+North Road, Basavanagudi,
+Bangalore-19",Ashrama Circle,
+86,86,"16th Cross, Basco Society,
+3rd Block Jayanagara,
+Pattalamma Temple,
+Bangalore-11","Jyothi
+Electronics",
+87,87,"Sheshadripuram, Police Station
+Beside Nehru Nagara,
+Bangalore","Sheshadri
+college",
+88,88,"Civil Court Complex,
+Kaveri Bhavan behind,
+Bangalore-01","Opposite to
+Central College",
+89,89,"Akkithimmanahalli Road,
+Shanthinagara, Bangalore",Longford Road,
+90,90,"K.G.Park milkbooth, Basappa
+Layout, Hanumanthanagar,
+Bangalore-19",Karranji Park,
+91,91,"Ramamandira, Rajajinagara,
+2nd Block, Bangalore-10","Rajajinagara
+Plyground",
+92,92,"Corporation Hospital, Beside
+Cambridge Road, Cambridge
+Layout, Bangalore-08","Alasur Police
+Station",
+93,93,"Vijaya kiran Apprtment
+Premises, Victoria Layout,
+ASC centre, Bangalore","Toyota Car
+Showroom",
+94,94,"6Th Cross, Milk booth Park
+Premises, VictoriaLayout,
+Bangalore",Vijaya Bank,
+95,95,"Coles Park Milkbooth Clive
+Line Town Road, Shivajinagara,
+Bangalore-01",Coles Park,
+96,96,"Moor Road market, Clive
+Line Town Road, Shivajinagara,
+Bangalore-01",Ashoka Theatre,
+97,97,"19th Main Gandhi Bhavan
+Kumara Park E & W Road,
+Shivananda Store, Bangalore","Chitrakala
+parishath",
+98,98,"Srinagara Bus stand
+corporation Complex,
+Srinagara, Bangalore -50","Ramanjaneya
+gudde Road",
+99,99,"Indhiranagara 1st stage,
+Market Road, Near BM
+Sri circle, Bangalore",C.M.H Road,
+100,100,"Austin town, 100ft Main Road,
+Word office beside, Bangalore","B.D.A.Complex
+Neela sandhra",
+101,101,"Century club, Cubban Park,
+Bangalore-01",Tenncy court,
+102,102,"12th Cross, Milk Booth,
+R.T.Nagara, Bus stand,
+Bangalore","B.D.A
+Complex",
+103,103,"Yeshwanthapura Market Road,
+Word office, Bangalore-22","Gayathri
+Temple",
+104,104,"Browing institute, St.mark Road,
+British library, Bangalore-1","Cricket
+Stadium",
+105,105,"Nisarga Layout, Bannerugatta
+Post, Anekal Road, Bangalore
+Rural Dist.","Gigani
+Village",
+106,106,"D.R.D.O Township,
+C.V.Raman nagara,
+Bangalore",Balaji Theatre,
+107,107,"12th Cross, 2nd Main, WCR
+2nd stage, Mahalakshmi Puram, 
+Bangalore",Chord Road,
+108,108,"Bangalore Diary Shopping
+Complex, Hosur Road,
+Bangalore",Christ College,
+109,109,"Head Office Complex 
+Dr. Mari gowda Road Lalbagh,
+Bangalore-04","Double Road
+Circle",
+110,110,"Head office Complex
+Dr. Mari gowda Road lalbagh,
+Bangalore-04","Double Road
+Circle",
+111,111,"C.P.R.I.Community hall,
+Ramaiah College Road, Gokul,
+Bangalore","Police Station,
+Sadashivanagara",
+112,112,"Raitha seva sahakara sangha
+Complex, Old town
+Yellahanka, Bangalore","General
+Hospital",
+113,113,"NIMHANS Hospital Premises,
+Hosur Road, Bangalore-27",NIMHANS,
+114,114,"10th main, 6th Cross,
+HAL 2nd stage, Bangalore","Indhirangara
+Club",
+115,115,"8th Cross, 12th main,
+Dhoopanahalli, HAL 2nd Stage,
+Bangalore","Indhirangara
+TelePhone
+Exchange",
+118,118,"8th Cross, 13th main,
+Dhoopanahalli, HAL 2nd Stage,
+Bangalore",ESI Hospital,
+119,119,"8th main,6th Cross, Milk
+Booth beside, Miranda School
+Opposite, HAL 2nd Stage,
+Bangalore","Cambridge
+School",
+120,120,"10th Main,Bheema Nagar
+PWD Quatras, HAL, Bangalore",Safal Market,
+122,122,"Frazer town, Lajal Road,
+Bangalore","Frazer town
+Police Station",
+123,123,"G.K.W.Layout,
+Vijayanagar,
+Bngalore-40","B.M.T.C
+Bus Stand",
+124,124,"Home School beside,
+Bombay Enclive appartment,
+Basavanagudi, Bangalore-4","Krishna
+Rao park",
+125,125,"Vidhya peeta road, Kathriguppe,
+BMTC depo, BSK 3rd stage,
+Bangalore",Vidhya Peeta,
+126,126,"1st cross, 1st Main, New Thippa
+Sandhra, HAL 3rd Stage,
+Bangalore",BEML Layout,
+127,127,"Milton Street, Cookes town,
+Shivajinagar, Bangalore",ITC Factory,
+128,128,"Ganesh Temple Opposite,
+Anandanagara, Hebbal Main
+Raod, SBM Bank, Bangalore",Canara Bank,
+129,129,"K.R.Circle, New public office,
+Nrupathunga Road, Bangalore-01",M.S.Building,
+130,130,"Income Tax layout, Police
+Commissioner Office Beside,
+Infantry Raod, Bangalore-1",Coffee Board,
+131,131,"I.I.M. Premises Post office
+Opp.Bhannerughatta Road,
+Arakere, Bangalore","Monthri
+Appartment",
+132,132,"Jala vihar Appartment,
+Kammanahalli Main Road,
+Bangalore",Banasavadi,
+134,134,"5th Cross K.C.General Hospital
+premises, Malleshwaram,
+Bangalore-3","Malleshwaram
+Police station",
+135,135,"B.N.C.S.Nursary, Beside HMT
+Colony, BEL Road, Bangalore",H.M.T.Factory,
+137,137,"7th C Main, 19th Cross, Milk
+Booth Basaweshwarangara,
+Bangalore",Police Station,
+138,138,"Kirloskar Colony, Milk booth,
+BCC Ply ground ACR
+Basaweshwara, Bangalore",Shankar Mutt,
+139,139,"3rd main B.B.M.P Word Office,
+Lalitha Clinic Opp Mahalakshmi
+Layout, Bangalore","Anjaneya
+Temple",
+140,140,"Central Silk Board, BTM Layout
+premises 2nd stage, Bangalore",Silk Board,
+141,141,"2nd Main, 1st stage,
+Nagashettihalli, Sanjay Nagara
+Road, Bangalore",Hebbal Road,
+142,142,"Rest house park Pre Bridge
+Road beside, Saldana house,
+Bangalore-1","Times Of 
+INDIA",
+143,143,"1st cross, 1st Main CILRMV
+Extension, 2nd Stage, Sanjay
+Nagara,Bangalore","Radha Kriahna
+Temple",
+144,144,"11th B Cross, 25th main,
+Milk booth, 1st Phase,
+J.P.ngara, Bangalore-78",LIC Quarters,
+145,145,"HMT Layout, 2nd Block Near
+plyground, Vidhyaranya Puram,
+Bangalore","Jallimara
+Reliance fresh",
+146,146,"Ganesha temple Opp R.P.C
+Layout, Pipeline, Vijayanagara,
+Bangalore","Adhichunchanagiri
+College",
+147,147,"24th Cross, 19th Main B.D.A
+Complex, BSK 2nd Stage,
+Bangalore -70",B.D.A.Complex,
+148,148,"10th Cross, 21st Main, Milk
+booth, J.P.Nagar 2nd Phase,
+Bangalore-78","CINE actor
+Ambarish House",
+149,149,"12th Main, Post Office Road,
+2nd Block, Koramangala,
+Bangalore","John floor
+Mill",
+150,150,"17th G Main 6th Cross,
+6th Block, Koramangala,
+Bangalore",Reddy School,
+151,151,"1st D Main, 1st Cross,
+8th Block, Koramangala,
+Bangalore","Nandini
+Delux Hotel",
+152,152,"4th Cross, 8th Block,
+Ganesh Temple,
+Koramangala, Bangalore","Kalyana
+mantapa",
+153,153,"Gavi Gangadheshwara
+Temple Circle, K.G
+Nagara, Bangalore -19","K.G.Police
+Station",
+154,154,"2nd Cross, 6th Main, Appu
+Rao Raod, Kempegowdanagar,
+Chamarajapet, Bangalore-18",UMA theater,
+155,155,"Mahanth Extn, B.H.S School
+Opp.Chamarajapet,
+Bangalore -18","Maratha
+Hostel",
+156,156,"80 Ft Road, 3rd Cross,
+RMV 2nd Stage, Gokul,
+Bangalore","M.S.Ramaiah
+Hospital",
+157,157,"6th Cross, 1st main, U.A.S
+HBCS Layout, Bangalore",Hebbal,
+158,158,"5th Cross ,5th Main NGEF
+Layout, Bypanahalli,
+Bangaloreore-3","NGEF
+Factory",
+160,160,"Devasandra Hoddi Road,
+K.R.Puram, Bangalore","Venu Gopala
+Swamy Temple",
+162,162,"Milk booth, Sadanandanagar,
+NGEF Layout, Bangalore","NGEF
+Factory",
+163,163,"Gandhi Grama Mahadevapura
+Road, Immda halli, Bangalore",White Field,
+164,164,"4th Division Telephone Exchange,
+Near Govt School,
+Sampangiramanagar Bangalore-02",Mission Road,
+165,165,"8th B Cross, K.H.B Complex
+Satallite Town, Yelahanka,
+Bangalore","Sheshadri
+Degree College",
+166,166,"1st Cross, 8th main,
+4th Block, Koramangala,
+Bangalore 09",Canara Bank,
+167,167,"B.T.M. Main Road, 2nd Stage,
+BTMC Bus stand, Bangalore","Kuvempunagara
+Road",
+168,168,"B.T.M Layout Vyasya Bank
+Colony 1st Stage, Beside Mico
+Layout, Bangalore","Jayadeva
+Hospital",
+169,169,"Amarajyothi school Opp
+Devasandhra Road, 
+K.R.Puram, Bangalore",CITY college,
+171,171,"Santhe Maidana, Devasandra
+Road, K.R.Puram, Bangalore","ITI B.M.T.C
+Dept",
+173,173,"Maruthi Rock Attiguppe
+2nd Stage Vijayanagara,
+Bangalore 40",Maruthi Rock,
+174,174,"C.A.Site milk booth,
+Vijayanagara Main Road,
+Bangalore-40","Sharavathi
+Nursing home",
+175,175,"H.B.C.S 2nd Stage, R.P.C
+Layout, Muddlupalya Bus Stand,
+Vijayanagar, Bangalore-40","Appayanna
+Kalyana mantap",
+176,176,"Bugall Rock Road, Basavanagudi
+Police station Road, Bangalore-4","B.M.S Women
+College",
+177,177,"I.T.I.Layout, Binson Town
+Miller Road, Shivajinagar,
+Bangalore",Nandi durga,
+178,178,"3rd Main road, Govt.Qrts,
+Jayamal Extn, JC Nagar,
+Bangalore",Palace Road,
+179,179,"Apmc Office Pre Rajbhavan
+Road, Bangalore-1","Income tax
+Office",
+180,180,"Govt Library Opp Inner
+Circle White Field, Bangalore","I.T Park
+Center",
+181,181,"B.D.A Complex Kallahalli,
+Near MEG Center Bangalore-08",Alsoor Lake,
+182,182,"Govt School Pre Garudachar
+Palya, White Field Road,
+Bangalore","Hero honda
+Showroom",
+183,183,"4th Main, 17th Cross, Milk
+booth Dasarahalli, Basaveshwara
+Nagara, Bangalore","Hotel Pavithra
+Paradise",
+184,184,"8th main, Milk Booth,
+Basaveshwara Nagara, Bangalore",SBI Colony,
+185,185,"T.B.hospital, Byrasandra,
+Jayanagara East, Bangalore","Nimhans
+Hospital",
+186,186,"Jayanagara General Hospital
+Pre 4th Block Jayanagar,
+Bangalore-41","B.M.T.C
+Depo",
+187,187,"Audugodi Police Qtrs Audugodi,
+Hosur Road, Bangalore",PVR Theater,
+188,188,"Sajjan Rao Circle, Corporation,
+Hospital Pre V.V.puram,
+Bangalore-4",V.B Bakery,
+189,189,"Shankar Puram Road, Near
+Police Station, Opp to ATM
+Karnataka Bank, Bangalore-4",Shankar Mutt,
+190,190,"2nd Block, Thyagaraja nagara,
+Shaneshwara temple Road,
+Bangalore","More Super
+Market",
+191,191,"Gurumurthappa Kalyana Mantap,
+Banashankari Circle, Service Road,
+Bangalore","Banashankari
+Bus Stand",
+192,192,"Word Office Beside 28th
+Main Road, Jayanagar 9th Block,
+Bangalore",Shekar Hospital,
+193,193,"Corporation Hospital Beside
+milk booth, 2nd Block, Kanakana
+Palya Layout, Bangalore","Community
+School Center",
+194,194,"Cauvery School Opp 2nd Block,
+Sahakara Nagara Park, Bangalore",yellahanka,
+195,195,"Nethaji Park, Near to Mini
+vidhanasowdha, Nelamangala","Mini
+Vidhanasaudha",
+196,196,"Subash nagara, Nelamangala","Thalloku
+panchayath",
+197,197,"Vivers colony, Nelamanagala","Chowdeshwari
+bus stand",
+199,199,"Ganesha Temple 2nd Block,
+Sahakara Nagara Park,
+Bangalore",Yellahanka,
+200,200,"SFHS Layout Radail Road,
+Nandini Layout, Bangalore",Swimming Pool,
+201,201,"HRBR Layout, Milk booth,
+Banasavadi, Bangalore",Anjaneya Temple,
+204,204,"BEML Extn, 3rd Stage Raja
+Rajeshwari nagara, Bangalore-39","Rajeshwari
+temple",
+205,205,"Ideal home township Near Tank
+Rajeshwari Nagara, Bangalore-39","Rajeshwari
+temple",
+206,206,"Jeevana halli market, Cooktown,
+Shivajinagara, Bangalore","BMTC
+Bus stand",
+207,207,"Basappa park, vetarnary Hospital,
+Cubbon pet, Corporation,
+Bangalore -2","Martha's
+Hospital",
+208,208,"Shankarappa layout, Laljinagara,
+Bannerughatta Road","Bangalore
+Diary",
+209,209,"Maruthi Nagara, Thavarekere
+Circle, BMTC Bus stand,
+Bangalore",PVR Opp Rod,
+210,210,"Maruthi Nagara, Madivala
+Park, Ayyappa temple Opp
+Madivala, Bangalore","St.John's
+Hospital",
+213,213,"Milk booth Police Station
+Near 4th Block, Rajajinagara,
+Bangalore-10",ESI Hospital,
+214,214,"Madavan nagara, Milk booth,
+Race Course Road, Bangalore-1","Opp to Janatha
+Dal Office",
+215,215,"11th Main Road, 4th Block,
+Jayanagara, Near Thilak Nagar
+Bangalore","Opp to Usha
+Appartment",
+216,216,"38th Cross, Milk booth
+beside, 20th Main, 4th T block,
+Jayanagara, Bangalore-41","G.N.R Kalyana
+Mantap",
+217,217,"35th Cross Milk booth,
+7th main Road, 4th Block,
+Jayanagar, Bangalore-41","Jayanagara
+Telephone
+Exchange",
+219,219,"Kathriguppe tank road,
+Milk booth 6th Block,
+B.S.K 3rd stage, Bangalore","Big Bazar
+Shopping
+Complex",
+220,220,"2nd Main, Addown school,
+7th Block,Hosakerehalli,
+B.S.K.3rd stage, Bangalore","Green's and
+Greeen's shop",
+221,221,"16th Main, 5th Cross, IAS
+Officer Layout, BTM Layout
+2nd Stage, Bangalore","IPS Shankar
+Bidari House",
+222,222,"Sena vihar Appointment,
+Kammanahalli, Opp to High
+School Ground, Bangalore","Banasavadi
+Road",
+223,223,"Raj mahal vilas Layout,
+4th main, 2nd Stage,
+R.M.V Bangalore",BEL Road,
+224,224,"O.M.R.R Layout, Bhuvangiri
+Extension, Park road, Banasavadi
+Road,Bangalore","Channa
+Sandhra Stop",
+226,226,"Cauverappa Layout, Mahaveer
+Jain Hospital,Cunningham Road,
+Bangalore-1","Ambedkar
+Bhavan",
+228,228,"Central Jail inside Pre Parappana
+Agrahara, Hosur Road,
+Bangalore",Central Jail,
+229,229,"Govt School Pre Agara
+village, Sarjapura Road, Bangalore","Agara Anjeneya
+Temple",
+230,230,"Chandhapura Circle, Hosur Road,
+Bangalore Rural Dist",Canara Bank,
+232,232,"Hebbagodi Village cross, Hosur
+Road, Bangalore Rural Dist","Narayana
+Hrudayalaya",
+233,233,"Govt Health Center,
+Dommasandra, Bangalore
+Rural Dist","Annekal
+Road",
+234,234,"Sarjapura Bus stand beside,
+Annekal Road, Bangalore Rural
+Dist",Sarjapura,
+235,235,"Channakeshava Nagara,
+Hosur road, Bangalore",Central Jail,
+236,236,"3rd Main Milk booth,
+Basaveshwaranagara, Bangalore",Monkey Park,
+237,237,"H.NO.64, Opp to kirloskar
+Colony, Basaveshwaranagara,
+Bangalore","Modi Hospital
+Road",
+238,238,"Ward No.16 Milk booth,
+Basaveshwaranagara, Bangalore","Evershine
+Appointment",
+240,240,"Ward No.98 K.H.M Block,
+Ganga Nagara, Bangalore",R.T.Nagar,
+241,241,"Malleshwaram Park, Near
+Milk booth, P.G. main Road,
+Malleshwaram, Bangalore-3","Dattatreya
+Temple",
+242,242,"Taskar Town Park Road,
+Shivaji Nagara, Bangalore-1","Indian Express
+Paper",
+243,243,"14th Cross, 24th main Govt
+Health Center Beside, J.P.Nagara
+1st Phase, Bangalore-78",K.E.B Office,
+244,244,"9th cross 4th Main, ISRO Road,
+Bus stand Bangalore","Near Bikasi
+Pura Park",
+245,245,"Kumaraswamy Layout, Bus
+stand, Opp Isro Road, Bangalore",Police Station,
+246,246,"I.P.P.Hospital, C.T Bed,
+Chennammakere Park,
+B.S.K 3rd Stage, Bangalore","Indira Nursing
+Home",
+247,247,"Bhuvaneshwarinagar, 5th Block,
+Park Pre 3rd Main, B.S.K
+3rd Stage, Bangalore","Nandi Appartment
+road",
+248,248,"1st cross, 2nd Main, Anjaneya
+Nagar, Ittamadu Road,
+B.S.K 3rd Stage, Bangalore","Old Janatha
+Bazar Stop",
+249,249,"ShankarNag Road, Shaneshwara
+Temple, BMTC Bus Stand
+Dommalur, Bangalore",B.D.A Complex,
+250,250,"1st Cross, 16th main,
+HAL 2nd Stage Indhiranagara,
+Bangalore","ROTARY
+Park",
+251,251,"1st H Cross, D Block,
+Gayathri park, Rajajinagar,
+Bangalore-10","Kuvempu
+Road",
+252,252,"Govt.Health Center, Post Office
+Opp to 12th Cross, 1st main,
+N.S.Palya, Bangalore","Canara Bank
+Quarters",
+253,253,"4th Cross, 9th main, Mico
+HBS 2nd Stage, B.T.M Layout,
+Bangalore",Water Tank,
+254,254,"8th Cross, 16th Main Park
+Beside B.T.M Layout 1st stage,
+Bangalore","Advithya
+Petrol Bunk",
+255,255,"7th Main Road, 1st Block
+Near Park, Koramangala,
+Bangalore","Krupanidhi
+College",
+256,256,"Venkatapura main road, Near
+madivala santhe, Koramangala,
+Bangalore","K.S.R.P
+Koramangala",
+257,257,"12th Cross, 23rd Main,
+J.P.nagara 2nd Phase,
+Bangalore-78",S.L.V.Hotel,
+258,258,"16th Cross, 18th main,
+J.P.Nagara 5th Phase,
+Bangalore-78","Shree Kalyana
+Mantap",
+259,259,"Pramod Theater, Magadi Road,
+Vijayanagar, Bangalore(New)","Toll Gate,
+Magadi Road",
+261,261,"National games complex, J-2,
+Judicial Block, Koramangala,
+Bangalore",Indoor Stadium,
+262,262,"4 th main,4th Cross Vijayanagar,
+Bangalore-40(New)",Bus Stand,
+263,263,"6 th main, NEAR Swimming Pool,
+Hampinagara, Vijayanagar,
+Bangalore-40(New)","Sharavathi
+Nursing Home",
+264,264,"Janatha Bazar Beside,
+HAL Market area HAL Road,
+Bangalore",S.B.I Bank,
+265,265,"Nada Gowda Circle,
+Vidhanasoudha Layout,
+Kottige Palya, Bangalore",Laggere,
+267,267,"12th Cross, 14th main, WCR
+2nd stage, Mahalakshmi Layout
+Bus stand, Bangalore","Dodda
+Anjeya Temple",
+268,268,"Mini forest Park Pre J.P.nagara,
+3rd Phase, Bangalore","Extn CM
+Kumaraswamy
+House",
+270,270,"Gigani Bus Stand, Bannerughatta
+Road,Annekal Road, Bangalore
+Rural Dist",Gigani,
+271,271,"Papareddy Palya, Mallathahalli,
+Opp to Dr.Ambedkar College
+Bangalore",B.D.A Complex,
+272,272,"Mahadeva Pura, Sigaiah Palya,
+Maruthi Car showroom Opp,
+K.R.Puram Bangalore",Hodi Road,
+273,273,"Devanahalli bus stand, Nandi
+Road, Devanahalli, Bangalore
+Rural Dist",B.I.A Airport,
+274,274,"P.L.D Bank Near Channapattana
+Bangalore Road,
+Ramanagar dist",A.P.M.C Office,
+277,277,"APMC yard, Hosakote Bus
+stand, Bangalore Rural Dist",Hosakote,
+278,278,"Vijayapura bus stand, High
+School Opp Siddlugatta Road,
+Bangalore Rural Dist",JAIN Temple,
+279,279,"Water Tank Ramanagar City,
+Channapattana Road,
+Ramanagara Dist",I Jur Station,
+280,280,"Bannerughatta Circle, Police
+station Opp Annekal Road,
+Bangalore Rural Dist",National Park,
+281,281,"P.L.D Bank beside, Brahmin
+palahara mandhir, Annekal
+Circle, Bangalore Rural Dist",Annekal,
+282,282,"I jur Ramanagara Police
+station Road, Ramanagar,
+Ramanagar Dist.",I Jur Station,
+284,284,"V.V.Layout, Hosakote
+Town, Bangalore Rural Dist",Hosakote,
+285,285,"60 Ft Road, Near Vinayaka
+Hospital 1st stage, Chandra Layout,
+Vijayanagar, Bangalore-40",Park Road,
+286,286,"5th Main, Word Office
+1st Stage, Chandra Layout,
+Vijayanagar,Bangalore",BMTC Depo,
+287,287,"Dollar's Layout, J.P.Nagar,
+4th Phase, Bangalore","Mukya Manthri
+Chandru House",
+288,288,"Baa shettahalli, Bank circle,
+Doddaballapura, Bangalore
+Rural Dist",S.B.I Bank,
+289,289,"MIG Residential Groop,
+Nandini Layout, Bangalore",-,
+290,290,"satalite Bus Stand, KSRTC
+Mysore Road, bangalore","Anjaneya
+Temple",
+291,291,"P & T Quarters, Kaval
+Byrasandra, R.T.nagara,
+Bangalore",K.H.B Complex,
+292,292,"T.A.P.C.M.S Premises,
+Nelamanagala, Bangalore
+Gramanthara",Near Busstand,
+293,293,"2nd ""F"" Main Raod Opp to
+Ward Office Nagarabavi
+11th Block, Bangalore-72","BBMP Ward
+Office",
+294,294,"9th main Road, Opp Park,
+Nagarabavi 9th Block,
+Bangalore-72","Nagarabavi
+Park",
