@@ -1,872 +1,872 @@
-_id,store_id,address,landmark,pincode,city,longitude,latitude,opening_hours
+_id,store_id,address,landmark,pincode,city,latitude,longitude,opening_hours
 1,1,"Head office Complex
 Dr. Mari gowda Road
 lalbagh, Bangalore","Double Road
-Circle",560004,Bengaluru,,,
+Circle",560004,Bengaluru,12.951034444,77.5913956761," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 2,2,"Head office Complex
 Dr. Mari gowda Road
 lalbagh, Bangalore","Double Road
-Circle",560004,Bengaluru,,,
+Circle",560004,Bengaluru,12.951034444,77.5913956761," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 3,3,"Head office Complex
 Dr. Mari gowda Road
 lalbagh, Bangalore","Double Road
-Circle",560004,Bengaluru,,,
+Circle",560004,Bengaluru,12.951034444,77.5913956761," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 4,4,"Head office Complex
 Dr. Mari gowda Road
 lalbagh, Bangalore","Double Road
-Circle",560004,Bengaluru,,,
+Circle",560004,Bengaluru,12.951034444,77.5913956761," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 5,5,"4th Block Jayanagar market
 Jayanagar,Bangalore -11","Shopping
-Complex",560011,Bengaluru,,,
+Complex",560011,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 6,6,"Mayohall premises
 Residency Road, M.G.Road
-beside Bangalore - 01",Mayohall,560001,Bengaluru,,,
+beside Bangalore - 01",Mayohall,560001,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 7,7,"Nallurahalli,Siddapura
 Ramagoddanahalli,
-Mahadevapura,Bangalore",White Field,560066,Bengaluru,,,
+Mahadevapura,Bangalore",White Field,560066,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 8,8,"17 th Cross J.Bazar
 Sadashivanagar,
-Bangalore-08",Palace Road,560008,Bengaluru,,,
+Bangalore-08",Palace Road,560008,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 9,9,"Mahabodhi Society,
 old central jail Gandhinagar,
-Bangalore-09",Freedom Park,560009,Bengaluru,,,
+Bangalore-09",Freedom Park,560009,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 10,10,"Sahakari Society, Rajajinagar
 5th Block, Bhaysham Circle
 Bangalore 10","Rama mindra
-2nd Block",560010,Bengaluru,,,
+2nd Block",560010,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 11,11,"Sahakara Bhavana building,
 Vivekanagara Bus stand,
 Bangalore","Neelasandra
-main road",,Bengaluru,,,
+main road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 12,12,"Legislature's Home Telecom
-Exchange, Bangalore-01",Vidhanasoudha,560001,Bengaluru,,,
+Exchange, Bangalore-01",Vidhanasoudha,560001,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 13,13,"Malleshwaram Co-op Society,
 8th cross, Margoosa Road,
-Bangalore-03",RCS Layout,560003,Bengaluru,,,
+Bangalore-03",RCS Layout,560003,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 14,14,"Victoria Hospital Premises
-K.R.Market Bangalore-02",K.R.Market,560002,Bengaluru,,,
+K.R.Market Bangalore-02",K.R.Market,560002,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 15,15,"Browsing Hospital Premises
 Shivajinagar,Bangalore-1","Shivajinagara
-Bus stand",560001,Bengaluru,,,
+Bus stand",560001,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 16,16,"Kidwai hospital,Hosur
 Road, Bangalore-27","Nimhans
-Hospital",560027,Bengaluru,,,
+Hospital",560027,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 17,17,"Bharath nagar,4th main,
-8th Cross 2nd stage B.E.L",Magadi Road,,Bengaluru,,,
+8th Cross 2nd stage B.E.L",Magadi Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 18,18,"Kumaraswamy Layout,
 14 th main 1stage, Bus Road,
 Bangalore","Dayananda
-Sagar College",,Bengaluru,,,
+Sagar College",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 19,19,"Shivabalayogi Ashram Opp
 3rd Phase J.P.nagar,
 Bangalore-18","S.B.Yogi
-Ashram",560018,Bengaluru,,,
+Ashram",560018,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 20,20,"K.S.R.T.C Main Bus stand,
 Subha's Nagar, Bangalore-09","K.S.R.T.C
-Busstand",560009,Bengaluru,,,
+Busstand",560009,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 21,21,"KIMS Hospital K.R.Road,
 Bangalore-02","Vokkaligara
-sangha",560002,Bengaluru,,,
+sangha",560002,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 22,22,"City Railway station,
 Subhas Nagar, Bangalore-09","Central Railway
-Station",560009,Bengaluru,,,
+Station",560009,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 23,23,"Lalbagh Glass house
-stall Bangalore-04",Glass house,560004,Bengaluru,,,
+stall Bangalore-04",Glass house,560004,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 25,25,"5th Cross, Hombbegowda
 nagara Willson garden,
 Bangalore 27","Police Station
-Willson Garden",560027,Bengaluru,,,
+Willson Garden",560027,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 26,26,"3rd main, 9th Cross,
 1st stage, BEL Layout
-Sunkada katte, Bangalore",Magadi Road,,Bengaluru,,,
+Sunkada katte, Bangalore",Magadi Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 27,27,"B.M.T.C.Busstand
 Subha's Nagar, Bangalore-09","Central
-B.M.T.C",,Bengaluru,,,
+B.M.T.C",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 28,28,"34th cross milk booth,
 18th Main,4th T Block
 Jayanagar, Bangalore","Chandrakala
 Parameshwari
-Temple",,Bengaluru,,,
+Temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 29,29,"17th B Cross Saraswathi
 Hospital B.S.K. 2nd Stage,
 Bangalore-70","Suchitra film
-centre",560070,Bengaluru,,,
+centre",560070,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 30,30,"Pai Layout tin factory, Rajakaluve
 Near Mahadavapura Road,
 Bangalore","White Field
-Road",,Bengaluru,,,
+Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 31,31,"17th Cross,Word office
 M.C. Extension,Vijayanagar
 Bangalore-40","Vijayanagar
-Tank",560040,Bengaluru,,,
+Tank",560040,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 32,32,"9th Main Road, Hosahalli park,
 Vijayanagar,
 Bangalore-40 (New)","Vijayanagar
-Park",,Bengaluru,,,
+Park",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 33,33,"50 th Cross, 3rd Main,
 4th Block, Rajajinagara,
-Bangalore-10",ESI Hospital,,Bengaluru,,,
+Bangalore-10",ESI Hospital,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 34,34,"Hudsan Circle, Krushibhavan
 Building Corporation,
-Bngalore-02",Cubbon Park,,Bengaluru,,,
+Bngalore-02",Cubbon Park,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 36,36,"Hudsan Circle, Krushibhavan
 Building Corporation,
-Bngalore-02",Cubbon Park,,Bengaluru,,,
+Bngalore-02",Cubbon Park,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 37,37,"Hudsan Circle, Krushibhavan
 Building Corporation,
-Bngalore-2",Cubbon Park,,Bengaluru,,,
+Bngalore-2",Cubbon Park,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 38,38,"Corporation Head office
 Premises, Mission Road,
-Bangalore-02",Unity Building,,Bengaluru,,,
+Bangalore-02",Unity Building,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 39,39,"1st cross, B.M.Sri Circle,
 C.M.H. Road, 100ft
-Indiranagar, Bangalore",C.M.H.Road,,Bengaluru,,,
+Indiranagar, Bangalore",C.M.H.Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 40,40,"Nandidurga Layout,
 Janata Bazar Premises,
 Miller Road, Bangalore","S.B.M.Bank
-Nandidurga",,Bengaluru,,,
+Nandidurga",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 41,41,"4th Cross, Ganesh Bhavan,
 Mountjoy Road, Hanumanth
 Nagar, Bangalore-19","Post Office
 Hanumantha
-Nagar",,Bengaluru,,,
+Nagar",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 42,42,"B.S.K. 1st Stage Srinivsanagar
 Stadium Premises, Bangalore","vidhyapeeta
-Circle",,Bengaluru,,,
+Circle",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 43,43,"19th G Main, Milk Booth Park
 Road 1st Block, Rajajinagara,
 Bangalore 10","Vidya vardaka
-College",,Bengaluru,,,
+College",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 44,44,"BEL Officers club, BEL Factory,
-RMV Extension, Bangalore",Jalahalli,,Bengaluru,,,
+RMV Extension, Bangalore",Jalahalli,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 45,45,"1st Cross Malleshwaram,
 Link Road Marata sangha Near
 Malleshwaram, Bangalore-3","Malleshwaram
-Circle",,Bengaluru,,,
+Circle",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 46,46,"1st B Cross, 8th Block
 Hunasemara, Jayanagar,
-S.J.P Hospital, Bangalore",J.S.S.College,,Bengaluru,,,
+S.J.P Hospital, Bangalore",J.S.S.College,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 47,47,"7th Cross,1st Main,
 Vasanthanagar M.C.C.College,
 Bangalore","Ambedkar
-Bhavan",,Bengaluru,,,
+Bhavan",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 48,48,"Janatha Bazar, Premises
-K.G.Road, Bangalore-09",Alankar Plaza,,Bengaluru,,,
+K.G.Road, Bangalore-09",Alankar Plaza,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 49,49,"1st Main, Old Shanthi
 Theatre behind Basavanagudi,
 Bangalore-04","Sounth end
-Road",,Bengaluru,,,
+Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 50,50,"Swimming Pool Near
 Mahalakshmi Layout, Nandhini
 Layout Road, Bangalore","Ashoka
-Highlights",,Bengaluru,,,
+Highlights",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 51,51,"12 th Main, Maththikere,
-Gokula, Bangalore",R.M.C.College,,Bengaluru,,,
+Gokula, Bangalore",R.M.C.College,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 52,52,"Bharathi Vidhya Peeta, 3rd Main
 Road, Adhichunchangiri Mutt,
 Vijayanagara, Bangalore-04","Chunchangiri
-Mutt",,Bengaluru,,,
+Mutt",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 53,53,"38th Cross, 9th Main,
 5th Block, Jayanagara,
-Bangalore - 41",Shalini Hotel,,Bengaluru,,,
+Bangalore - 41",Shalini Hotel,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 54,54,"3rd.Cross, 3rd Main,
 K.E.B.Layout, Geddalahalli,
-Bangalore",Hebbal Road,,Bengaluru,,,
+Bangalore",Hebbal Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 55,55,"2nd Cross, 2nd Main
 LIC Colony Park, Jayanagar
-3rd Block, Bangalore",Word Office,,Bengaluru,,,
+3rd Block, Bangalore",Word Office,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 56,56,"27th Cross, 5th Main,
 Nand theatre Near 3rd Block
 Jayanagar, Bangalore-68","N.M.K.R.V
-College",,Bengaluru,,,
+College",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 57,57,"H.S.R.Layout, Sector No.1,
 Agra road, Bangalore","B.D.A.Complex
-H.S.R.Layout",,Bengaluru,,,
+H.S.R.Layout",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 58,58,"Bysandra Road Jayanagara,
 3rd block, Ply ground beside,
 Bangalore-11","Jayanagara
-Swimming Pool",,Bengaluru,,,
+Swimming Pool",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 59,59,"Bangalore Club, Richmond
 Circle, Resideny Road,
-Bangalore-25",Hotel Sarovara,,Bengaluru,,,
+Bangalore-25",Hotel Sarovara,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 60,60,"22nd Cross Milk booth,
 6th Block, Jayanagara,
-Bangalore-82",Yediur Lake,,Bengaluru,,,
+Bangalore-82",Yediur Lake,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 61,61,"Akshya Complex, Military
-Campas, Jalahalli, Bangalore",Jalahalli,,Bengaluru,,,
+Campas, Jalahalli, Bangalore",Jalahalli,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 62,62,"10th A Cross, Brakar ply
 ground, Kumara Park West,
-Bangalore",Madhavanagara,,Bengaluru,,,
+Bangalore",Madhavanagara,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 63,63,"4th Cross, 2nd Main Ganga
 Nagara, Mekhri Circle,
-Bangalore",Hebbal Road,,Bengaluru,,,
+Bangalore",Hebbal Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 64,64,"7th main, 17th E Cross
 Milk Booth, 1st stage,
 Indhiranagara, Bangalore","Hindu
-Cretorium",,Bengaluru,,,
+Cretorium",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 65,65,"27th Cross, Milk booth,
 2nd Block, Rajajinagara,
-Bangalore-10",K.L.E College,,Bengaluru,,,
+Bangalore-10",K.L.E College,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 66,66,"Canara bank Colony,
 MudalaPalya, Vijayanagara,
 Bangalore-40","Nagarabhavi
-Road",,Bengaluru,,,
+Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 67,67,"12th C Main, 72ndCross,
 Ganesh temple behind, 6th block,
 Rajajinagara, Bangalore-10","B.B.M.P
 Community
-Center",,Bengaluru,,,
+Center",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 68,68,"8th Cross Subbaiah Layout,
 Serpentine Road, Kumar Park
-West, Bangalore",B.D.A Office,,Bengaluru,,,
+West, Bangalore",B.D.A Office,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 69,69,"53th Cross, Milk Booth,
 3rd block, Rajajinagara,
 Bangalore-10","Community
-Center",,Bengaluru,,,
+Center",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 70,70,"2nd Main, 4th Cross,
 Defence Colony, Indhiranagara,
 Bangalore","100 Ft Road,
-Indhiranagara",,Bengaluru,,,
+Indhiranagara",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 71,71,"11th Cross Road, Malleshwaram
 Railway Station, Bangalore-3","10th Cross,
-Malleshwaram",,Bengaluru,,,
+Malleshwaram",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 72,72,"3rd Main Milk booth,Saibaba
 Temple, Someshwara Extension,
-Cambridge Road, Bangalore-08",Alsoor,,Bengaluru,,,
+Cambridge Road, Bangalore-08",Alsoor,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 73,73,"6th Cros, 10th main, 1st Block
 Jayanagara, Bangalore-11","Rani Saraladevi
-School",,Bengaluru,,,
+School",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 74,74,"N.R.Colony, 1st Cross
 Bus stand, Opposite to
-Ramamandhira, Bangalore",Word Office,,Bengaluru,,,
+Ramamandhira, Bangalore",Word Office,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 76,76,"7th Main ,15th Cross,
 Corporation Market,
 Lakkasandra, Bangalore","Harilakshmi
-theatre",,Bengaluru,,,
+theatre",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 77,77,"1st A Main 7th Block,
 Jayanagara, Corporation
 Hospital, Bangalore","Deepak
-Hospital",,Bengaluru,,,
+Hospital",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 78,78,"9th cross 6th Main,
-Sadhashivanagara, Bangalore",Swimming Pool,,Bengaluru,,,
+Sadhashivanagara, Bangalore",Swimming Pool,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 79,79,"46th Cross, 5th Block,
 Jayanagara, Bangalore-41","Rajalakshmi
-Nursing home",,Bengaluru,,,
+Nursing home",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 80,80,"2nd main, 16th main, Near
 M.E.S College Malleshwaram,
 Bangalore -41","M.L.A
-Malleshwaram",,Bengaluru,,,
+Malleshwaram",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 82,82,"Primary Health Centre,
 Munireddy Palya Main Road,
-J.C Nagara, Bangalore-41",T.V Tower,,Bengaluru,,,
+J.C Nagara, Bangalore-41",T.V Tower,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 83,83,"M.E.G.Center Military
 Campus, Kallahalli,
-Bangalore-08",Alsoor Lake,,Bengaluru,,,
+Bangalore-08",Alsoor Lake,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 84,84,"15th Cross, Kadu
 Malleshwaram Temple,
 Malleshwaram, Bangalore-03","Chowdaiah
-Memorial Hall",,Bengaluru,,,
+Memorial Hall",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 85,85,"Ramakrishna Ashrama circle,
 North Road, Basavanagudi,
-Bangalore-19",Ashrama Circle,,Bengaluru,,,
+Bangalore-19",Ashrama Circle,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 86,86,"16th Cross, Basco Society,
 3rd Block Jayanagara,
 Pattalamma Temple,
 Bangalore-11","Jyothi
-Electronics",,Bengaluru,,,
+Electronics",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 87,87,"Sheshadripuram, Police Station
 Beside Nehru Nagara,
 Bangalore","Sheshadri
-college",,Bengaluru,,,
+college",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 88,88,"Civil Court Complex,
 Kaveri Bhavan behind,
 Bangalore-01","Opposite to
-Central College",,Bengaluru,,,
+Central College",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 89,89,"Akkithimmanahalli Road,
-Shanthinagara, Bangalore",Longford Road,,Bengaluru,,,
+Shanthinagara, Bangalore",Longford Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 90,90,"K.G.Park milkbooth, Basappa
 Layout, Hanumanthanagar,
-Bangalore-19",Karranji Park,,Bengaluru,,,
+Bangalore-19",Karranji Park,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 91,91,"Ramamandira, Rajajinagara,
 2nd Block, Bangalore-10","Rajajinagara
-Plyground",,Bengaluru,,,
+Plyground",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 92,92,"Corporation Hospital, Beside
 Cambridge Road, Cambridge
 Layout, Bangalore-08","Alasur Police
-Station",,Bengaluru,,,
+Station",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 93,93,"Vijaya kiran Apprtment
 Premises, Victoria Layout,
 ASC centre, Bangalore","Toyota Car
-Showroom",,Bengaluru,,,
+Showroom",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 94,94,"6Th Cross, Milk booth Park
 Premises, VictoriaLayout,
-Bangalore",Vijaya Bank,,Bengaluru,,,
+Bangalore",Vijaya Bank,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 95,95,"Coles Park Milkbooth Clive
 Line Town Road, Shivajinagara,
-Bangalore-01",Coles Park,,Bengaluru,,,
+Bangalore-01",Coles Park,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 96,96,"Moor Road market, Clive
 Line Town Road, Shivajinagara,
-Bangalore-01",Ashoka Theatre,,Bengaluru,,,
+Bangalore-01",Ashoka Theatre,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 97,97,"19th Main Gandhi Bhavan
 Kumara Park E & W Road,
 Shivananda Store, Bangalore","Chitrakala
-parishath",,Bengaluru,,,
+parishath",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 98,98,"Srinagara Bus stand
 corporation Complex,
 Srinagara, Bangalore -50","Ramanjaneya
-gudde Road",,Bengaluru,,,
+gudde Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 99,99,"Indhiranagara 1st stage,
 Market Road, Near BM
-Sri circle, Bangalore",C.M.H Road,,Bengaluru,,,
+Sri circle, Bangalore",C.M.H Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 100,100,"Austin town, 100ft Main Road,
 Word office beside, Bangalore","B.D.A.Complex
-Neela sandhra",,Bengaluru,,,
+Neela sandhra",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 101,101,"Century club, Cubban Park,
-Bangalore-01",Tenncy court,,Bengaluru,,,
+Bangalore-01",Tenncy court,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 102,102,"12th Cross, Milk Booth,
 R.T.Nagara, Bus stand,
 Bangalore","B.D.A
-Complex",,Bengaluru,,,
+Complex",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 103,103,"Yeshwanthapura Market Road,
 Word office, Bangalore-22","Gayathri
-Temple",,Bengaluru,,,
+Temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 104,104,"Browing institute, St.mark Road,
 British library, Bangalore-1","Cricket
-Stadium",,Bengaluru,,,
+Stadium",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 105,105,"Nisarga Layout, Bannerugatta
 Post, Anekal Road, Bangalore
 Rural Dist.","Gigani
-Village",,Bengaluru,,,
+Village",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 106,106,"D.R.D.O Township,
 C.V.Raman nagara,
-Bangalore",Balaji Theatre,,Bengaluru,,,
+Bangalore",Balaji Theatre,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 107,107,"12th Cross, 2nd Main, WCR
 2nd stage, Mahalakshmi Puram
-Bangalore",Chord Road,,Bengaluru,,,
+Bangalore",Chord Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 108,108,"Bangalore Diary Shopping
 Complex, Hosur Road,
-Bangalore",Christ College,,Bengaluru,,,
+Bangalore",Christ College,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 109,109,"Head Office Complex
 Dr. Mari gowda Road Lalbagh,
 Bangalore-04","Double Road
-Circle",,Bengaluru,,,
+Circle",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 110,110,"Head office Complex
 Dr. Mari gowda Road lalbagh,
 Bangalore-04","Double Road
-Circle",,Bengaluru,,,
+Circle",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 111,111,"C.P.R.I.Community hall,
 Ramaiah College Road, Gokul,
 Bangalore","Police Station,
-Sadashivanagara",,Bengaluru,,,
+Sadashivanagara",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 112,112,"Raitha seva sahakara sangha
 Complex, Old town
 Yellahanka, Bangalore","General
-Hospital",,Bengaluru,,,
+Hospital",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 113,113,"NIMHANS Hospital Premises,
-Hosur Road, Bangalore-27",NIMHANS,,Bengaluru,,,
+Hosur Road, Bangalore-27",NIMHANS,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 114,114,"10th main, 6th Cross,
 HAL 2nd stage, Bangalore","Indhirangara
-Club",,Bengaluru,,,
+Club",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 115,115,"8th Cross, 12th main,
 Dhoopanahalli, HAL 2nd Stage,
 Bangalore","Indhirangara
 TelePhone
-Exchange",,Bengaluru,,,
+Exchange",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 118,118,"8th Cross, 13th main,
 Dhoopanahalli, HAL 2nd Stage,
-Bangalore",ESI Hospital,,Bengaluru,,,
+Bangalore",ESI Hospital,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 119,119,"8th main,6th Cross, Milk
 Booth beside, Miranda School
 Opposite, HAL 2nd Stage,
 Bangalore","Cambridge
-School",,Bengaluru,,,
+School",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 120,120,"10th Main,Bheema Nagar
-PWD Quatras, HAL, Bangalore",Safal Market,,Bengaluru,,,
+PWD Quatras, HAL, Bangalore",Safal Market,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 122,122,"Frazer town, Lajal Road,
 Bangalore","Frazer town
-Police Station",,Bengaluru,,,
+Police Station",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 123,123,"G.K.W.Layout,
 Vijayanagar,
 Bngalore-40","B.M.T.C
-Bus Stand",,Bengaluru,,,
+Bus Stand",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 124,124,"Home School beside,
 Bombay Enclive appartment,
 Basavanagudi, Bangalore-4","Krishna
-Rao park",,Bengaluru,,,
+Rao park",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 125,125,"Vidhya peeta road, Kathriguppe,
 BMTC depo, BSK 3rd stage,
-Bangalore",Vidhya Peeta,,Bengaluru,,,
+Bangalore",Vidhya Peeta,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 126,126,"1st cross, 1st Main, New Thippa
 Sandhra, HAL 3rd Stage,
-Bangalore",BEML Layout,,Bengaluru,,,
+Bangalore",BEML Layout,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 127,127,"Milton Street, Cookes town,
-Shivajinagar, Bangalore",ITC Factory,,Bengaluru,,,
+Shivajinagar, Bangalore",ITC Factory,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 128,128,"Ganesh Temple Opposite,
 Anandanagara, Hebbal Main
-Raod, SBM Bank, Bangalore",Canara Bank,,Bengaluru,,,
+Raod, SBM Bank, Bangalore",Canara Bank,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 129,129,"K.R.Circle, New public office,
-Nrupathunga Road, Bangalore-01",M.S.Building,,Bengaluru,,,
+Nrupathunga Road, Bangalore-01",M.S.Building,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 130,130,"Income Tax layout, Police
 Commissioner Office Beside,
-Infantry Raod, Bangalore-1",Coffee Board,,Bengaluru,,,
+Infantry Raod, Bangalore-1",Coffee Board,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 131,131,"I.I.M. Premises Post office
 Opp.Bhannerughatta Road,
 Arakere, Bangalore","Monthri
-Appartment",,Bengaluru,,,
+Appartment",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 132,132,"Jala vihar Appartment,
 Kammanahalli Main Road,
-Bangalore",Banasavadi,,Bengaluru,,,
+Bangalore",Banasavadi,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 134,134,"5th Cross K.C.General Hospital
 premises, Malleshwaram,
 Bangalore-3","Malleshwaram
-Police station",,Bengaluru,,,
+Police station",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 135,135,"B.N.C.S.Nursary, Beside HMT
-Colony, BEL Road, Bangalore",H.M.T.Factory,,Bengaluru,,,
+Colony, BEL Road, Bangalore",H.M.T.Factory,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 137,137,"7th C Main, 19th Cross, Milk
 Booth Basaweshwarangara,
-Bangalore",Police Station,,Bengaluru,,,
+Bangalore",Police Station,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 138,138,"Kirloskar Colony, Milk booth,
 BCC Ply ground ACR
-Basaweshwara, Bangalore",Shankar Mutt,,Bengaluru,,,
+Basaweshwara, Bangalore",Shankar Mutt,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 139,139,"3rd main B.B.M.P Word Office,
 Lalitha Clinic Opp Mahalakshmi
 Layout, Bangalore","Anjaneya
-Temple",,Bengaluru,,,
+Temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 140,140,"Central Silk Board, BTM Layout
-premises 2nd stage, Bangalore",Silk Board,,Bengaluru,,,
+premises 2nd stage, Bangalore",Silk Board,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 141,141,"2nd Main, 1st stage,
 Nagashettihalli, Sanjay Nagara
-Road, Bangalore",Hebbal Road,,Bengaluru,,,
+Road, Bangalore",Hebbal Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 142,142,"Rest house park Pre Bridge
 Road beside, Saldana house,
 Bangalore-1","Times Of
-INDIA",,Bengaluru,,,
+INDIA",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 143,143,"1st cross, 1st Main CILRMV
 Extension, 2nd Stage, Sanjay
 Nagara,Bangalore","Radha Kriahna
-Temple",,Bengaluru,,,
+Temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 144,144,"11th B Cross, 25th main,
 Milk booth, 1st Phase,
-J.P.ngara, Bangalore-78",LIC Quarters,,Bengaluru,,,
+J.P.ngara, Bangalore-78",LIC Quarters,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 145,145,"HMT Layout, 2nd Block Near
 plyground, Vidhyaranya Puram,
 Bangalore","Jallimara
-Reliance fresh",,Bengaluru,,,
+Reliance fresh",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 146,146,"Ganesha temple Opp R.P.C
 Layout, Pipeline, Vijayanagara,
 Bangalore","Adhichunchanagiri
-College",,Bengaluru,,,
+College",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 147,147,"24th Cross, 19th Main B.D.A
 Complex, BSK 2nd Stage,
-Bangalore -70",B.D.A.Complex,,Bengaluru,,,
+Bangalore -70",B.D.A.Complex,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 148,148,"10th Cross, 21st Main, Milk
 booth, J.P.Nagar 2nd Phase,
 Bangalore-78","CINE actor
-Ambarish House",,Bengaluru,,,
+Ambarish House",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 149,149,"12th Main, Post Office Road,
 2nd Block, Koramangala,
 Bangalore","John floor
-Mill",,Bengaluru,,,
+Mill",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 150,150,"17th G Main 6th Cross,
 6th Block, Koramangala,
-Bangalore",Reddy School,,Bengaluru,,,
+Bangalore",Reddy School,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 151,151,"1st D Main, 1st Cross,
 8th Block, Koramangala,
 Bangalore","Nandini
-Delux Hotel",,Bengaluru,,,
+Delux Hotel",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 152,152,"4th Cross, 8th Block,
 Ganesh Temple,
 Koramangala, Bangalore","Kalyana
-mantapa",,Bengaluru,,,
+mantapa",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 153,153,"Gavi Gangadheshwara
 Temple Circle, K.G
 Nagara, Bangalore -19","K.G.Police
-Station",,Bengaluru,,,
+Station",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 154,154,"2nd Cross, 6th Main, Appu
 Rao Raod, Kempegowdanagar,
-Chamarajapet, Bangalore-18",UMA theater,,Bengaluru,,,
+Chamarajapet, Bangalore-18",UMA theater,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 155,155,"Mahanth Extn, B.H.S School
 Opp.Chamarajapet,
 Bangalore -18","Maratha
-Hostel",,Bengaluru,,,
+Hostel",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 156,156,"80 Ft Road, 3rd Cross,
 RMV 2nd Stage, Gokul,
 Bangalore","M.S.Ramaiah
-Hospital",,Bengaluru,,,
+Hospital",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 157,157,"6th Cross, 1st main, U.A.S
-HBCS Layout, Bangalore",Hebbal,,Bengaluru,,,
+HBCS Layout, Bangalore",Hebbal,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 158,158,"5th Cross ,5th Main NGEF
 Layout, Bypanahalli,
 Bangaloreore-3","NGEF
-Factory",,Bengaluru,,,
+Factory",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 160,160,"Devasandra Hoddi Road,
 K.R.Puram, Bangalore","Venu Gopala
-Swamy Temple",,Bengaluru,,,
+Swamy Temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 162,162,"Milk booth, Sadanandanagar,
 NGEF Layout, Bangalore","NGEF
-Factory",,Bengaluru,,,
+Factory",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 163,163,"Gandhi Grama Mahadevapura
-Road, Immda halli, Bangalore",White Field,,Bengaluru,,,
+Road, Immda halli, Bangalore",White Field,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 164,164,"4th Division Telephone Exchange,
 Near Govt School,
-Sampangiramanagar Bangalore-02",Mission Road,,Bengaluru,,,
+Sampangiramanagar Bangalore-02",Mission Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 165,165,"8th B Cross, K.H.B Complex
 Satallite Town, Yelahanka,
 Bangalore","Sheshadri
-Degree College",,Bengaluru,,,
+Degree College",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 166,166,"1st Cross, 8th main,
 4th Block, Koramangala,
-Bangalore 09",Canara Bank,,Bengaluru,,,
+Bangalore 09",Canara Bank,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 167,167,"B.T.M. Main Road, 2nd Stage,
 BTMC Bus stand, Bangalore","Kuvempunagara
-Road",,Bengaluru,,,
+Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 168,168,"B.T.M Layout Vyasya Bank
 Colony 1st Stage, Beside Mico
 Layout, Bangalore","Jayadeva
-Hospital",,Bengaluru,,,
+Hospital",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 169,169,"Amarajyothi school Opp
 Devasandhra Road
-K.R.Puram, Bangalore",CITY college,,Bengaluru,,,
+K.R.Puram, Bangalore",CITY college,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 171,171,"Santhe Maidana, Devasandra
 Road, K.R.Puram, Bangalore","ITI B.M.T.C
-Dept",,Bengaluru,,,
+Dept",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 173,173,"Maruthi Rock Attiguppe
 2nd Stage Vijayanagara,
-Bangalore 40",Maruthi Rock,,Bengaluru,,,
+Bangalore 40",Maruthi Rock,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 174,174,"C.A.Site milk booth,
 Vijayanagara Main Road,
 Bangalore-40","Sharavathi
-Nursing home",,Bengaluru,,,
+Nursing home",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 175,175,"H.B.C.S 2nd Stage, R.P.C
 Layout, Muddlupalya Bus Stand,
 Vijayanagar, Bangalore-40","Appayanna
-Kalyana mantap",,Bengaluru,,,
+Kalyana mantap",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 176,176,"Bugall Rock Road, Basavanagudi
 Police station Road, Bangalore-4","B.M.S Women
-College",,Bengaluru,,,
+College",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 177,177,"I.T.I.Layout, Binson Town
 Miller Road, Shivajinagar,
-Bangalore",Nandi durga,,Bengaluru,,,
+Bangalore",Nandi durga,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 178,178,"3rd Main road, Govt.Qrts,
 Jayamal Extn, JC Nagar,
-Bangalore",Palace Road,,Bengaluru,,,
+Bangalore",Palace Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 179,179,"Apmc Office Pre Rajbhavan
 Road, Bangalore-1","Income tax
-Office",,Bengaluru,,,
+Office",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 180,180,"Govt Library Opp Inner
 Circle White Field, Bangalore","I.T Park
-Center",,Bengaluru,,,
+Center",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 181,181,"B.D.A Complex Kallahalli,
-Near MEG Center Bangalore-08",Alsoor Lake,,Bengaluru,,,
+Near MEG Center Bangalore-08",Alsoor Lake,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 182,182,"Govt School Pre Garudachar
 Palya, White Field Road,
 Bangalore","Hero honda
-Showroom",,Bengaluru,,,
+Showroom",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 183,183,"4th Main, 17th Cross, Milk
 booth Dasarahalli, Basaveshwara
 Nagara, Bangalore","Hotel Pavithra
-Paradise",,Bengaluru,,,
+Paradise",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 184,184,"8th main, Milk Booth,
-Basaveshwara Nagara, Bangalore",SBI Colony,,Bengaluru,,,
+Basaveshwara Nagara, Bangalore",SBI Colony,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 185,185,"T.B.hospital, Byrasandra,
 Jayanagara East, Bangalore","Nimhans
-Hospital",,Bengaluru,,,
+Hospital",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 186,186,"Jayanagara General Hospital
 Pre 4th Block Jayanagar,
 Bangalore-41","B.M.T.C
-Depo",,Bengaluru,,,
+Depo",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 187,187,"Audugodi Police Qtrs Audugodi,
-Hosur Road, Bangalore",PVR Theater,,Bengaluru,,,
+Hosur Road, Bangalore",PVR Theater,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 188,188,"Sajjan Rao Circle, Corporation,
 Hospital Pre V.V.puram,
-Bangalore-4",V.B Bakery,,Bengaluru,,,
+Bangalore-4",V.B Bakery,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 189,189,"Shankar Puram Road, Near
 Police Station, Opp to ATM
-Karnataka Bank, Bangalore-4",Shankar Mutt,,Bengaluru,,,
+Karnataka Bank, Bangalore-4",Shankar Mutt,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 190,190,"2nd Block, Thyagaraja nagara,
 Shaneshwara temple Road,
 Bangalore","More Super
-Market",,Bengaluru,,,
+Market",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 191,191,"Gurumurthappa Kalyana Mantap,
 Banashankari Circle, Service Road,
 Bangalore","Banashankari
-Bus Stand",,Bengaluru,,,
+Bus Stand",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 192,192,"Word Office Beside 28th
 Main Road, Jayanagar 9th Block,
-Bangalore",Shekar Hospital,,Bengaluru,,,
+Bangalore",Shekar Hospital,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 193,193,"Corporation Hospital Beside
 milk booth, 2nd Block, Kanakana
 Palya Layout, Bangalore","Community
-School Center",,Bengaluru,,,
+School Center",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 194,194,"Cauvery School Opp 2nd Block,
-Sahakara Nagara Park, Bangalore",yellahanka,,Bengaluru,,,
+Sahakara Nagara Park, Bangalore",yellahanka,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 195,195,"Nethaji Park, Near to Mini
 vidhanasowdha, Nelamangala","Mini
-Vidhanasaudha",,Bengaluru,,,
+Vidhanasaudha",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 196,196,"Subash nagara, Nelamangala","Thalloku
-panchayath",,Bengaluru,,,
+panchayath",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 197,197,"Vivers colony, Nelamanagala","Chowdeshwari
-bus stand",,Bengaluru,,,
+bus stand",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 199,199,"Ganesha Temple 2nd Block,
 Sahakara Nagara Park,
-Bangalore",Yellahanka,,Bengaluru,,,
+Bangalore",Yellahanka,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 200,200,"SFHS Layout Radail Road,
-Nandini Layout, Bangalore",Swimming Pool,,Bengaluru,,,
+Nandini Layout, Bangalore",Swimming Pool,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 201,201,"HRBR Layout, Milk booth,
-Banasavadi, Bangalore",Anjaneya Temple,,Bengaluru,,,
+Banasavadi, Bangalore",Anjaneya Temple,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 204,204,"BEML Extn, 3rd Stage Raja
 Rajeshwari nagara, Bangalore-39","Rajeshwari
-temple",,Bengaluru,,,
+temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 205,205,"Ideal home township Near Tank
 Rajeshwari Nagara, Bangalore-39","Rajeshwari
-temple",,Bengaluru,,,
+temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 206,206,"Jeevana halli market, Cooktown,
 Shivajinagara, Bangalore","BMTC
-Bus stand",,Bengaluru,,,
+Bus stand",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 207,207,"Basappa park, vetarnary Hospital,
 Cubbon pet, Corporation,
 Bangalore -2","Martha's
-Hospital",,Bengaluru,,,
+Hospital",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 208,208,"Shankarappa layout, Laljinagara,
 Bannerughatta Road","Bangalore
-Diary",,Bengaluru,,,
+Diary",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 209,209,"Maruthi Nagara, Thavarekere
 Circle, BMTC Bus stand,
-Bangalore",PVR Opp Rod,,Bengaluru,,,
+Bangalore",PVR Opp Rod,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 210,210,"Maruthi Nagara, Madivala
 Park, Ayyappa temple Opp
 Madivala, Bangalore","St.John's
-Hospital",,Bengaluru,,,
+Hospital",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 213,213,"Milk booth Police Station
 Near 4th Block, Rajajinagara,
-Bangalore-10",ESI Hospital,,Bengaluru,,,
+Bangalore-10",ESI Hospital,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 214,214,"Madavan nagara, Milk booth,
 Race Course Road, Bangalore-1","Opp to Janatha
-Dal Office",,Bengaluru,,,
+Dal Office",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 215,215,"11th Main Road, 4th Block,
 Jayanagara, Near Thilak Nagar
 Bangalore","Opp to Usha
-Appartment",,Bengaluru,,,
+Appartment",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 216,216,"38th Cross, Milk booth
 beside, 20th Main, 4th T block,
 Jayanagara, Bangalore-41","G.N.R Kalyana
-Mantap",,Bengaluru,,,
+Mantap",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 217,217,"35th Cross Milk booth,
 7th main Road, 4th Block,
 Jayanagar, Bangalore-41","Jayanagara
 Telephone
-Exchange",,Bengaluru,,,
+Exchange",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 219,219,"Kathriguppe tank road,
 Milk booth 6th Block,
 B.S.K 3rd stage, Bangalore","Big Bazar
 Shopping
-Complex",,Bengaluru,,,
+Complex",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 220,220,"2nd Main, Addown school,
 7th Block,Hosakerehalli,
 B.S.K.3rd stage, Bangalore","Green's and
-Greeen's shop",,Bengaluru,,,
+Greeen's shop",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 221,221,"16th Main, 5th Cross, IAS
 Officer Layout, BTM Layout
 2nd Stage, Bangalore","IPS Shankar
-Bidari House",,Bengaluru,,,
+Bidari House",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 222,222,"Sena vihar Appointment,
 Kammanahalli, Opp to High
 School Ground, Bangalore","Banasavadi
-Road",,Bengaluru,,,
+Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 223,223,"Raj mahal vilas Layout,
 4th main, 2nd Stage,
-R.M.V Bangalore",BEL Road,,Bengaluru,,,
+R.M.V Bangalore",BEL Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 224,224,"O.M.R.R Layout, Bhuvangiri
 Extension, Park road, Banasavadi
 Road,Bangalore","Channa
-Sandhra Stop",,Bengaluru,,,
+Sandhra Stop",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 226,226,"Cauverappa Layout, Mahaveer
 Jain Hospital,Cunningham Road,
 Bangalore-1","Ambedkar
-Bhavan",,Bengaluru,,,
+Bhavan",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 228,228,"Central Jail inside Pre Parappana
 Agrahara, Hosur Road,
-Bangalore",Central Jail,,Bengaluru,,,
+Bangalore",Central Jail,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 229,229,"Govt School Pre Agara
 village, Sarjapura Road, Bangalore","Agara Anjeneya
-Temple",,Bengaluru,,,
+Temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 230,230,"Chandhapura Circle, Hosur Road,
-Bangalore Rural Dist",Canara Bank,,Bengaluru,,,
+Bangalore Rural Dist",Canara Bank,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 232,232,"Hebbagodi Village cross, Hosur
 Road, Bangalore Rural Dist","Narayana
-Hrudayalaya",,Bengaluru,,,
+Hrudayalaya",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 233,233,"Govt Health Center,
 Dommasandra, Bangalore
 Rural Dist","Annekal
-Road",,Bengaluru,,,
+Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 234,234,"Sarjapura Bus stand beside,
 Annekal Road, Bangalore Rural
-Dist",Sarjapura,,Bengaluru,,,
+Dist",Sarjapura,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 235,235,"Channakeshava Nagara,
-Hosur road, Bangalore",Central Jail,,Bengaluru,,,
+Hosur road, Bangalore",Central Jail,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 236,236,"3rd Main Milk booth,
-Basaveshwaranagara, Bangalore",Monkey Park,,Bengaluru,,,
+Basaveshwaranagara, Bangalore",Monkey Park,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 237,237,"H.NO.64, Opp to kirloskar
 Colony, Basaveshwaranagara,
 Bangalore","Modi Hospital
-Road",,Bengaluru,,,
+Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 238,238,"Ward No.16 Milk booth,
 Basaveshwaranagara, Bangalore","Evershine
-Appointment",,Bengaluru,,,
+Appointment",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 240,240,"Ward No.98 K.H.M Block,
-Ganga Nagara, Bangalore",R.T.Nagar,,Bengaluru,,,
+Ganga Nagara, Bangalore",R.T.Nagar,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 241,241,"Malleshwaram Park, Near
 Milk booth, P.G. main Road,
 Malleshwaram, Bangalore-3","Dattatreya
-Temple",,Bengaluru,,,
+Temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 242,242,"Taskar Town Park Road,
 Shivaji Nagara, Bangalore-1","Indian Express
-Paper",,Bengaluru,,,
+Paper",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 243,243,"14th Cross, 24th main Govt
 Health Center Beside, J.P.Nagara
-1st Phase, Bangalore-78",K.E.B Office,,Bengaluru,,,
+1st Phase, Bangalore-78",K.E.B Office,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 244,244,"9th cross 4th Main, ISRO Road,
 Bus stand Bangalore","Near Bikasi
-Pura Park",,Bengaluru,,,
+Pura Park",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 245,245,"Kumaraswamy Layout, Bus
-stand, Opp Isro Road, Bangalore",Police Station,,Bengaluru,,,
+stand, Opp Isro Road, Bangalore",Police Station,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 246,246,"I.P.P.Hospital, C.T Bed,
 Chennammakere Park,
 B.S.K 3rd Stage, Bangalore","Indira Nursing
-Home",,Bengaluru,,,
+Home",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 247,247,"Bhuvaneshwarinagar, 5th Block,
 Park Pre 3rd Main, B.S.K
 3rd Stage, Bangalore","Nandi Appartment
-road",,Bengaluru,,,
+road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 248,248,"1st cross, 2nd Main, Anjaneya
 Nagar, Ittamadu Road,
 B.S.K 3rd Stage, Bangalore","Old Janatha
-Bazar Stop",,Bengaluru,,,
+Bazar Stop",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 249,249,"ShankarNag Road, Shaneshwara
 Temple, BMTC Bus Stand
-Dommalur, Bangalore",B.D.A Complex,,Bengaluru,,,
+Dommalur, Bangalore",B.D.A Complex,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 250,250,"1st Cross, 16th main,
 HAL 2nd Stage Indhiranagara,
 Bangalore","ROTARY
-Park",,Bengaluru,,,
+Park",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 251,251,"1st H Cross, D Block,
 Gayathri park, Rajajinagar,
 Bangalore-10","Kuvempu
-Road",,Bengaluru,,,
+Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 252,252,"Govt.Health Center, Post Office
 Opp to 12th Cross, 1st main,
 N.S.Palya, Bangalore","Canara Bank
-Quarters",,Bengaluru,,,
+Quarters",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 253,253,"4th Cross, 9th main, Mico
 HBS 2nd Stage, B.T.M Layout,
-Bangalore",Water Tank,,Bengaluru,,,
+Bangalore",Water Tank,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 254,254,"8th Cross, 16th Main Park
 Beside B.T.M Layout 1st stage,
 Bangalore","Advithya
-Petrol Bunk",,Bengaluru,,,
+Petrol Bunk",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 255,255,"7th Main Road, 1st Block
 Near Park, Koramangala,
 Bangalore","Krupanidhi
-College",,Bengaluru,,,
+College",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 256,256,"Venkatapura main road, Near
 madivala santhe, Koramangala,
 Bangalore","K.S.R.P
-Koramangala",,Bengaluru,,,
+Koramangala",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 257,257,"12th Cross, 23rd Main,
 J.P.nagara 2nd Phase,
-Bangalore-78",S.L.V.Hotel,,Bengaluru,,,
+Bangalore-78",S.L.V.Hotel,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 258,258,"16th Cross, 18th main,
 J.P.Nagara 5th Phase,
 Bangalore-78","Shree Kalyana
-Mantap",,Bengaluru,,,
+Mantap",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 259,259,"Pramod Theater, Magadi Road,
 Vijayanagar, Bangalore(New)","Toll Gate,
-Magadi Road",,Bengaluru,,,
+Magadi Road",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 261,261,"National games complex, J-2,
 Judicial Block, Koramangala,
-Bangalore",Indoor Stadium,,Bengaluru,,,
+Bangalore",Indoor Stadium,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 262,262,"4 th main,4th Cross Vijayanagar,
-Bangalore-40(New)",Bus Stand,,Bengaluru,,,
+Bangalore-40(New)",Bus Stand,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 263,263,"6 th main, NEAR Swimming Pool,
 Hampinagara, Vijayanagar,
 Bangalore-40(New)","Sharavathi
-Nursing Home",,Bengaluru,,,
+Nursing Home",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 264,264,"Janatha Bazar Beside,
 HAL Market area HAL Road,
-Bangalore",S.B.I Bank,,Bengaluru,,,
+Bangalore",S.B.I Bank,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 265,265,"Nada Gowda Circle,
 Vidhanasoudha Layout,
-Kottige Palya, Bangalore",Laggere,,Bengaluru,,,
+Kottige Palya, Bangalore",Laggere,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 267,267,"12th Cross, 14th main, WCR
 2nd stage, Mahalakshmi Layout
 Bus stand, Bangalore","Dodda
-Anjeya Temple",,Bengaluru,,,
+Anjeya Temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 268,268,"Mini forest Park Pre J.P.nagara,
 3rd Phase, Bangalore","Extn CM
 Kumaraswamy
-House",,Bengaluru,,,
+House",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 270,270,"Gigani Bus Stand, Bannerughatta
 Road,Annekal Road, Bangalore
-Rural Dist",Gigani,,Bengaluru,,,
+Rural Dist",Gigani,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 271,271,"Papareddy Palya, Mallathahalli,
 Opp to Dr.Ambedkar College
-Bangalore",B.D.A Complex,,Bengaluru,,,
+Bangalore",B.D.A Complex,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 272,272,"Mahadeva Pura, Sigaiah Palya,
 Maruthi Car showroom Opp,
-K.R.Puram Bangalore",Hodi Road,,Bengaluru,,,
+K.R.Puram Bangalore",Hodi Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 273,273,"Devanahalli bus stand, Nandi
 Road, Devanahalli, Bangalore
-Rural Dist",B.I.A Airport,,Bengaluru,,,
+Rural Dist",B.I.A Airport,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 274,274,"P.L.D Bank Near Channapattana
 Bangalore Road,
-Ramanagar dist",A.P.M.C Office,,Bengaluru,,,
+Ramanagar dist",A.P.M.C Office,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 277,277,"APMC yard, Hosakote Bus
-stand, Bangalore Rural Dist",Hosakote,,Bengaluru,,,
+stand, Bangalore Rural Dist",Hosakote,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 278,278,"Vijayapura bus stand, High
 School Opp Siddlugatta Road,
-Bangalore Rural Dist",JAIN Temple,,Bengaluru,,,
+Bangalore Rural Dist",JAIN Temple,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 279,279,"Water Tank Ramanagar City,
 Channapattana Road,
-Ramanagara Dist",I Jur Station,,Bengaluru,,,
+Ramanagara Dist",I Jur Station,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 280,280,"Bannerughatta Circle, Police
 station Opp Annekal Road,
-Bangalore Rural Dist",National Park,,Bengaluru,,,
+Bangalore Rural Dist",National Park,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 281,281,"P.L.D Bank beside, Brahmin
 palahara mandhir, Annekal
-Circle, Bangalore Rural Dist",Annekal,,Bengaluru,,,
+Circle, Bangalore Rural Dist",Annekal,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 282,282,"I jur Ramanagara Police
 station Road, Ramanagar,
-Ramanagar Dist.",I Jur Station,,Bengaluru,,,
+Ramanagar Dist.",I Jur Station,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 284,284,"V.V.Layout, Hosakote
-Town, Bangalore Rural Dist",Hosakote,,Bengaluru,,,
+Town, Bangalore Rural Dist",Hosakote,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 285,285,"60 Ft Road, Near Vinayaka
 Hospital 1st stage, Chandra Layout,
-Vijayanagar, Bangalore-40",Park Road,,Bengaluru,,,
+Vijayanagar, Bangalore-40",Park Road,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 286,286,"5th Main, Word Office
 1st Stage, Chandra Layout,
-Vijayanagar,Bangalore",BMTC Depo,,Bengaluru,,,
+Vijayanagar,Bangalore",BMTC Depo,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 287,287,"Dollar's Layout, J.P.Nagar,
 4th Phase, Bangalore","Mukya Manthri
-Chandru House",,Bengaluru,,,
+Chandru House",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 288,288,"Baa shettahalli, Bank circle,
 Doddaballapura, Bangalore
-Rural Dist",S.B.I Bank,,Bengaluru,,,
+Rural Dist",S.B.I Bank,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 289,289,"MIG Residential Groop,
-Nandini Layout, Bangalore",-,,Bengaluru,,,
+Nandini Layout, Bangalore",-,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 290,290,"satalite Bus Stand, KSRTC
 Mysore Road, bangalore","Anjaneya
-Temple",,Bengaluru,,,
+Temple",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 291,291,"P & T Quarters, Kaval
 Byrasandra, R.T.nagara,
-Bangalore",K.H.B Complex,,Bengaluru,,,
+Bangalore",K.H.B Complex,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 292,292,"T.A.P.C.M.S Premises,
 Nelamanagala, Bangalore
-Gramanthara",Near Busstand,,Bengaluru,,,
+Gramanthara",Near Busstand,,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 293,293,"2nd ""F"" Main Raod Opp to
 Ward Office Nagarabavi
 11th Block, Bangalore-72","BBMP Ward
-Office",,Bengaluru,,,
+Office",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
 294,294,"9th main Road, Opp Park,
 Nagarabavi 9th Block,
 Bangalore-72","Nagarabavi
-Park",,Bengaluru,,,
+Park",,Bengaluru,,," Mo-Sa 09:00-12:00,16:00-19:00,PH off"
