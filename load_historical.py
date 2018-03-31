@@ -4,8 +4,10 @@ import time
 import csv
 
 #READ THESE FROM CONFIG
+config_file = "/home/thej/.config/code_config/hopcoms.json"
+config  = json.load(open(config_file))
+db_full_url= config["db_full_url"]
 
-db_full_url= ""
 couch = couchdb.Server(db_full_url)
 hopcoms_daily 	= couch["hopcoms_daily"]
 all_item_list = {}

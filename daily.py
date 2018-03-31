@@ -5,11 +5,15 @@ import datetime
 import couchdb
 from BeautifulSoup import BeautifulSoup
 
-all_items_load = False
-
-all_item_list = {}
-db_full_url= ""
+#READ THESE FROM CONFIG
+config_file = "/home/thej/.config/code_config/hopcoms.json"
+config  = json.load(open(config_file))
+db_full_url= config["db_full_url"]
 couch = couchdb.Server(db_full_url)
+
+
+all_items_load = False
+all_item_list = {}
 hopcoms_meta 	= couch["hopcoms_meta"]
 
 if all_items_load:
