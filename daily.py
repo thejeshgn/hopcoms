@@ -16,37 +16,10 @@ all_items_load = False
 all_item_list = {}
 hopcoms_meta 	= couch["hopcoms_meta"]
 
-if all_items_load:
-	with open('item_list2.csv', "r") as csv_file:
-		reader = csv.reader(csv_file)
-		header = True
-		for row in reader:
-			if header:
-				header = False
-				continue
-			label = (row[1]).strip()
-			label =	label.replace(" ","")
-			label = label.lower()
-			all_item_list[label]=int(row[0])
-
-	try:
-		if hopcoms_meta["item_codes2"]:
-			pass
-	except couchdb.http.ResourceNotFound:
-			print "add"
-			all_item_list["_id"]="item_codes"
-
-	print str(all_item_list)
-	hopcoms_meta.save(all_item_list)
-else:
-	all_item_list = hopcoms_meta["item_codes"]
-	#print str(all_item_list)
-
-
+all_item_list = hopcoms_meta["item_codes2"]
+#print str(all_item_list)
 
 hopcoms_daily 	= couch["hopcoms_daily"]
-
-
 
 web_data_url = "http://hopcoms.karnataka.gov.in/CropRates.aspx"
 total_data = {}
