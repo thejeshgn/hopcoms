@@ -3,7 +3,6 @@ import json
 import csv
 import datetime
 import couchdb
-from BeautifulSoup import BeautifulSoup
 
 #READ THESE FROM CONFIG
 config_file = "/home/thej/.config/code_config/hopcoms.json"
@@ -62,7 +61,7 @@ hopcoms_meta 	= couch["hopcoms_meta"]
 
 
 item_details_all = {}
-with open('item_details2.csv', "r") as csv_file:
+with open('item_details3.csv', "r") as csv_file:
     reader = csv.reader(csv_file)
     header = True
     for row in reader:
@@ -71,14 +70,14 @@ with open('item_details2.csv', "r") as csv_file:
             continue
         insertRow = {}
         insertRow["name_en"] = row[1]
-        insertRow["name_kn"] = (row[2]).decode('utf-8')
+        insertRow["name_kn"] = row[2]
         item_details_all[row[0]] = insertRow
 
 try:
-    if hopcoms_meta["item_details2"]:
+    if hopcoms_meta["item_details3"]:
         pass
 except couchdb.http.ResourceNotFound:
-        print "add"
-        item_details_all["_id"]="item_details2"
-        print str(item_details_all)
+        print("add")
+        item_details_all["_id"]="item_details3"
+        print(item_details_all)
         hopcoms_meta.save(item_details_all)
